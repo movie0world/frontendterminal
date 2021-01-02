@@ -1,0 +1,13 @@
+.product{
+    display:flex;
+    flex-wrap:wrap;
+    
+}
+.message{
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+border: 2px solid ;
+padding: 10px;
+display: none;
+}
